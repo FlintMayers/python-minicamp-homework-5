@@ -1,3 +1,7 @@
 body {
 	background: whitesmoke;
 }
+
+#hide {
+	float: right;
+}
